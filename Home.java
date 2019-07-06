@@ -83,7 +83,7 @@ public class Home extends JFrame {
 		contentPane.add(btnReceptionistLogin);
 		
 		JLabel lblNewLabel_1 = new JLabel("New label");
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\Meena\\Pictures\\Camera Roll\\Admin-icon.png"));
+		//lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\Meena\\Pictures\\Camera Roll\\Admin-icon.png"));
 		lblNewLabel_1.setBounds(67, 87, 150, 161);
 		contentPane.add(lblNewLabel_1);
 		
